@@ -9,3 +9,4 @@
 - Learned basic grep and linux syntax
 - Set up Python environment
 - Installed Desktop Docker
+- Completed Linux Command Line Challenge
