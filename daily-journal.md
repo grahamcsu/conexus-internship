@@ -10,3 +10,7 @@
 - Set up Python environment
 - Installed Desktop Docker
 - Completed Linux Command Line Challenge
+
+# 6/11
+- Learned IDE
+- Project Euler Challenges
