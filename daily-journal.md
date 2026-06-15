@@ -9,3 +9,13 @@
 - Learned basic grep and linux syntax
 - Set up Python environment
 - Installed Desktop Docker
+- Completed Linux Command Line Challenge
+
+# 6/11
+- Learned IDE
+- Project Euler Challenges
+
+# 6/12
+
+- Docker Basics
+- Use a Docker API
