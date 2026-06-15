@@ -14,3 +14,8 @@
 # 6/11
 - Learned IDE
 - Project Euler Challenges
+
+# 6/12
+
+- Docker Basics
+- Use a Docker API
