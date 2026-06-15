@@ -9,5 +9,5 @@ def find_palindrome(x):
             x=x+tracked_x
             goal=int(str(x)[::-1])
             if goal==x:
-                  tracked_x=x
+                  tracked_x=int(x)
     return(x)
