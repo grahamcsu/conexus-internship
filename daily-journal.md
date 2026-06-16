@@ -19,3 +19,9 @@
 
 - Docker Basics
 - Use a Docker API
+
+# 6/15
+- I don't remember. something
+
+# 6/16
+- Struggled through the beginning phase of blog web app
