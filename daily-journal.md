@@ -25,3 +25,7 @@
 
 # 6/16
 - Struggled through the beginning phase of blog web app
+
+# 6/19
+- More methods for app.get and app.post
+- Installed SQLite
