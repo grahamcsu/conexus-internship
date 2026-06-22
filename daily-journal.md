@@ -29,3 +29,6 @@
 # 6/19
 - More methods for app.get and app.post
 - Installed SQLite
+
+# 6/20 
+- SQLite3 basics
