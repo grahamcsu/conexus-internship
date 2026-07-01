@@ -32,3 +32,8 @@
 
 # 6/20 
 - SQLite3 basics
+
+# 7/1
+- week on inactivity, going to start logging hours here too for easy reference
+- wrapped up sqlite3, started work on web app functionality
+- got here at like 9:30 to 12
