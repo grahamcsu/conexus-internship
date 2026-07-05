@@ -37,3 +37,7 @@
 - week on inactivity, going to start logging hours here too for easy reference
 - wrapped up sqlite3, started work on web app functionality
 - got here at like 9:30 to 12
+
+#7/2
+- little bit more app function
+- probably only like 1:30-2 hr work
