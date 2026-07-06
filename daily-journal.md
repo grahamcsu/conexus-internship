@@ -41,3 +41,7 @@
 #7/2
 - little bit more app function
 - probably only like 1:30-2 hr work
+
+# 7/6
+- rewrote everything with sqlalchemy so it actually works
+- 3 hrs (9-12)
