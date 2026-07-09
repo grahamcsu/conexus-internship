@@ -46,6 +46,10 @@
 - rewrote everything with sqlalchemy so it actually works
 - 3 hrs (9-12)
 
-#7/8
+# 7/8
 - made author stuff
 - idk like 1 hour
+
+# 7/9
+- frontend with claude
+- finished backend
