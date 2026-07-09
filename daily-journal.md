@@ -53,3 +53,4 @@
 # 7/9
 - frontend with claude
 - finished backend
+- 11:30-1:30 (2hrs)
