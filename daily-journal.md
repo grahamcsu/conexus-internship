@@ -54,3 +54,9 @@
 - frontend with claude
 - finished backend
 - 11:30-3:30 (4hrs)
+
+# 7/20
+
+- made api a docker app
+- project euler algoriths and recursives
+- 9-12:30 (3.5 hrs)
