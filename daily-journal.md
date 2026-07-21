@@ -60,3 +60,8 @@
 - made api a docker app
 - project euler algoriths and recursives
 - 9-12:30 (3.5 hrs)
+
+# 7/21
+- 10:30-2 (3.5)
+- binary search tree search
+
