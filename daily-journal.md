@@ -65,3 +65,10 @@
 - 10:30-2 (3.5)
 - binary search tree search
 
+# 7/28
+-Began georeferencing
+- 2 hours
+
+# 7/30
+- More georeferencing
+- 4 hours
