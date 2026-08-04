@@ -72,3 +72,12 @@
 # 7/30
 - More georeferencing
 - 4 hours
+
+# 8/3
+- georeferencing; finished 3600
+- 4 hrs
+
+# 8/4
+- cleared lines on maps
+- georeferenced more
+- 3 hrs
